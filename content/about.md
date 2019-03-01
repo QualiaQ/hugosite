@@ -33,7 +33,7 @@ krzysztof[dot]dolega[at]rub[dot]de
 
 {{% /expandable %}}
 
-# Talks
+# Presentations
 
 {{% expandable label="Invited Talks" level="2" %}}
 
