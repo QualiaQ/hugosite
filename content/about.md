@@ -118,11 +118,39 @@ krzysztof[dot]dolega[at]rub[dot]de
 
 # Event Organization
 
+{{% expandable label="Conferences" level="2" %}}
 
+**2019**
+
+* Second Bochum Early Career Workshop in Philosophy of Mind and of Cognitive Science, Ruhr-Universität Bochum, June 2019 (Lead Organizer with Judith Martens, Andrea Pace Giannotta, Luke Roelofs, Elmarie Venter, Alfredo Vernazzani, & Julia Wolf)\\
+![GradConf2](/images/GradConf2.png)
+
+
+* Predictive Processing, Consciousness and Self, Ruhr-Universität Bochum, January 2019\\
+![PP](/images/PP.jpg)
+
+
+**2018**
+
+* First Bochum Early Career Workshop in Philosophy of Mind and of Cognitive Science, Ruhr-Universität Bochum, July 2018 (Lead Organizer with Judith Martens, Luke Roelofs, Elmarie Venter, & Alfredo Vernazzani)\\
+![GradConf1](/images/GradConf1.png)
+
+**2015**
+
+* Mental Representations: the foundations of Cognitive Science?, Ruhr-Universität Bochum, September 2015 (Lead Organizer with Joulia Smortchkova & Tobias Schlicht)\\
+![Mental Reps](/images/Mental Reps.png)
+
+**2013**
+
+* BPPA Masterclass in Predictive Coding, University of Edinburgh, October 2013 (Assistant Organizer)
+
+* Embodied Music Cognition Conference, University of Edinburgh, July 2013 (Assistant Organizer)
+
+{{% /expandable %}}
 
 # Public Outreach
 
-{{% expandable label="From Dretske to Predictive Coding - Information and Representation in Cognitive Science" level="2" %}}
+{{% expandable label="Features" level="2" %}}
 
 
 {{% /expandable %}}
