@@ -98,11 +98,11 @@ krzysztof[dot]dolega[at]rub[dot]de
 
 * "Predictive Processing and the Admissible Contents Debate". Expecting Ourselves - 1st X-spect Workshop. University of Edinburgh, Scotland
 
-**2017:**
+**2015:**
 
 * "Prediction Error Minimization account of changes in conscious perception of stable images with illusory contours". Cognitive Penetration and Predictive Coding Conference. Ruhr-Universität Bochum, Germany.
 
-**2017:**
+**2013:**
 
 * "Does action-oriented Predictive Processing offer an enactive account of sensory substitution?". iCog Inaugural Conference. University of Sheffield, England.
 
@@ -110,6 +110,19 @@ krzysztof[dot]dolega[at]rub[dot]de
 
 # Teaching
 
+{{% expandable label="Master Seminars" level="2" %}}
+
+
+{{% /expandable %}}
+
+
 # Event Organization
 
+
+
 # Public Outreach
+
+{{% expandable label="From Dretske to Predictive Coding - Information and Representation in Cognitive Science" level="2" %}}
+
+
+{{% /expandable %}}
