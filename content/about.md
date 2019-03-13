@@ -112,6 +112,21 @@ krzysztof[dot]dolega[at]rub[dot]de
 
 {{% expandable label="Master Seminars" level="2" %}}
 
+**2018-2019**
+
+* "From Dretske to Predictive Coding: Naturalistic approaches to information and mental representation"\\
+Winter semester, co-organized with Prof. Tobias Schlicht
+
+**2017-2018**
+
+* "Radical Enactivism and higher-level cognition"
+ Winter semester, co-organized with Prof. Tobias Schlicht
+
+**2015-2016**
+
+* "Theories of Consciousness"\\
+Winter semester, organized by Dr. Beate Krickel.\\
+The title says it all. I was invited to participate in the class as an expert and conduct meetings devoted to deflationary theories of consciousness.
 
 {{% /expandable %}}
 
