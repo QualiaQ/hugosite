@@ -34,7 +34,7 @@ theme = "cupper-hugo-theme"
     url = "/tags/"
     weight = 3
   [[menu.nav]]
-    name = "Vitae"
+    name = "Vita"
     url = "/about/"
     weight = 4
   [[menu.nav]]
