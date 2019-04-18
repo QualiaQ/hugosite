@@ -19,7 +19,7 @@ krzysztof[dot]dolega[at]rub[dot]de
 
 {{% expandable label="Journal Articles" level="2" %}}
 
-* **Dolega, K.** & Dewhurst, J. (forthcoming). Bayesian Frugality and the Representation of Attention. In Niikawa, T., Jones, M., & Perera, R. (Eds.), Representing Ourselves [Special issue] *Journal of Consciousness Studies*.
+* **Dolega, K.** & Dewhurst, J. (2019). [Bayesian Frugality and the Representation of Attention.](https://www.ingentaconnect.com/contentone/imp/jcs/2019/00000026/f0020003/art00003) In Niikawa, T., Jones, M., & Perera, R. (Eds.), Representing Ourselves [Special issue] *Journal of Consciousness Studies*, 26(3-4): 38-63.
 * **Dolega, K.** (2018). [Commentary: M-autonomy.](https://www.frontiersin.org/articles/10.3389/fpsyg.2018.00680/full) *Frontiers in Psychology*, 9:680.
 * Przywara, A., & **Dolega, K.** (2016). [Form and Inform. Internal Semantics of Computation Languages and Architecture of Developed Capitalism.](http://pismowidok.org/index.php/one/article/view/402/922) *View. Theories and Practices of Visual Culture*, 16.
 * Matyja, J. R., & **Dolega, K.** (2015). [Commentary: The embodied brain: towards a radical embodied cognitive neuroscience.](https://www.frontiersin.org/articles/10.3389/fnhum.2015.00669/full) *Frontiers in Human Neuroscience*, 9:669.
@@ -137,17 +137,17 @@ The title says it all. I was invited to participate in the class as an expert an
 
 **2019**
 
-* Second Bochum Early Career Workshop in Philosophy of Mind and of Cognitive Science, Ruhr-Universität Bochum, June 2019 (Lead Organizer with Judith Martens, Andrea Pace Giannotta, Luke Roelofs, Elmarie Venter, Alfredo Vernazzani, & Julia Wolf)\\
+* Second Bochum Early Career Workshop in Philosophy of Mind and of Cognitive Science, Ruhr-Universität Bochum, June 2019 (Co- organizer with Judith Martens, Andrea Pace Giannotta, Luke Roelofs, Elmarie Venter, Alfredo Vernazzani, & Julia Wolf)\\
 ![GradConf2](/images/GradConf2.png)
 
 
-* Predictive Processing, Consciousness and Self, Ruhr-Universität Bochum, January 2019\\
+* Predictive Processing, Consciousness and Self, Ruhr-Universität Bochum, January 2019 (Lead organizer with Tobias Schlicht)\\
 ![PP](/images/PP.jpg)
 
 
 **2018**
 
-* First Bochum Early Career Workshop in Philosophy of Mind and of Cognitive Science, Ruhr-Universität Bochum, July 2018 (Lead Organizer with Judith Martens, Luke Roelofs, Elmarie Venter, & Alfredo Vernazzani)\\
+* First Bochum Early Career Workshop in Philosophy of Mind and of Cognitive Science, Ruhr-Universität Bochum, July 2018 (Co-organizer with Judith Martens, Luke Roelofs, Elmarie Venter, & Alfredo Vernazzani)\\
 ![GradConf1](/images/GradConf1.png)
 
 **2015**
@@ -167,5 +167,6 @@ The title says it all. I was invited to participate in the class as an expert an
 
 {{% expandable label="Features" level="2" %}}
 
+My early doctoral research has been featured on the [iCog network's blog](http://icog.group.shef.ac.uk/does-action-oriented-predictive-processing-offer-an-enactive-account-of-sensory-substitution/). 
 
 {{% /expandable %}}
