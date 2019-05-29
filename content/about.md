@@ -36,10 +36,14 @@ krzysztof[dot]dolega[at]rub[dot]de
 # Presentations
 
 {{% expandable label="Invited Talks" level="2" %}}
+**2019:**
+
+* “Rich in its poverty - perceptual experience in light of predictive coding". 2nd Bochum Early Career Researcher Workshop in Philosophy of Mind and of Cognitive Science. Institut für Philosophie II, Ruhr-Universität Bochum, Germany.
+* "Filling-in or Finding-out? Mental Imagery in Predictive Processing". Conference on Mental Imagery and Predictive Processing. Centre for Philosophical Psychology, University of Antwerp, Belgium.
 
 **2018:**
 
-* "Curb your Free-energy: What is the scope of Free-energy models". Colloquium on Predictive Processing. Donders Institute for Brain, Cognition and Behaviour, Radboud University, Nijmegen, Netherlands.
+* "Curb your Free-energy: What is the scope of Free-energy models". Colloquium on Predictive Processing. Donders Institute for Brain, Cognition and Behavior, Radboud University, Nijmegen, Netherlands.
 * "Curb your Free-energy: What is the scope of Free-energy models". Predictive Processing & Reinforcement Learning Conference. Center for Cognitive Studies, Tufts University, Medford MA, USA.
 * "Predictive Processing and the Contents of Perceptual Experience". Workshop on the Philosophical Implications of Predictive Processing. University of Cardinal Stefan Wyszyński, Warsaw, Poland.
 
@@ -167,6 +171,6 @@ The title says it all. I was invited to participate in the class as an expert an
 
 {{% expandable label="Features" level="2" %}}
 
-My early doctoral research has been featured on the [iCog network's blog](http://icog.group.shef.ac.uk/does-action-oriented-predictive-processing-offer-an-enactive-account-of-sensory-substitution/). 
+My early doctoral research has been featured on the [iCog network's blog](http://icog.group.shef.ac.uk/does-action-oriented-predictive-processing-offer-an-enactive-account-of-sensory-substitution/).
 
 {{% /expandable %}}

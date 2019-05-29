@@ -14,7 +14,7 @@ theme = "cupper-hugo-theme"
   quality = 99
 
 [params]
-  description = "I'm a research assistant and a PhD candidate in philosophy at the Ruhr-Universität Bochum."
+  description = "I'm a postdoc in philosophy at the Ruhr-Universität Bochum."
   footer = "Made with [Hugo](https://gohugo.io/). Themed by [Cupper](https://github.com/zwbetz-gh/cupper-hugo-theme). Deployed to [Github](https://github.com/QualiaQ)."
   # For more date formats see https://gohugo.io/functions/format/
   dateFormat = "Jan 2, 2006"
