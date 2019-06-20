@@ -60,6 +60,10 @@ krzysztof[dot]dolega[at]rub[dot]de
 
 {{% expandable label="Peer-reviewed Talks" level="2" %}}
 
+**2019:**
+
+* "Attending to the Illusion of Consciousness - Bayesian Frugality and the Representation of Attention." (co-authored with Joe Dewhurst). Kinds of Intelligence 2: Machine Minds - Conference. University of Cambridge, England.
+
 
 **2018:**
 
