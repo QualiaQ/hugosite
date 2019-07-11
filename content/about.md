@@ -88,7 +88,7 @@ krzysztof[dot]dolega[at]rub[dot]de
 
 **2014:**
 
-* "Fame in the predictive brain: Applying Dennett's multiple drafts model to explain consciousness in the Bayesian brain" (co-authored with Removed for review). Rudolf Carnap Lectures. Ruhr-Universität Bochum, Germany.
+* "Fame in the predictive brain: Applying Dennett's multiple drafts model to explain consciousness in the Bayesian brain" (co-authored with Joe Dewhurst). Rudolf Carnap Lectures. Ruhr-Universität Bochum, Germany.
 
 **2013:**
 
