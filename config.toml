@@ -1,43 +1,93 @@
 baseURL = "https://qualiaq.github.io/"
 languageCode = "en-us"
-defaultContentLanguage = "en"
-title = "Krzysztof Dolega, MSc"
-theme = "cupper-hugo-theme"
+theme = "hello-friend-ng"
 
-[taxonomies]
-  tag = "tags"
+title = "Krzysztof Dolega"
+
+
+pygmentsCodefences = false
+pygmentsUseClasses = false
+
+rssLimit  = 10  # Maximum number of items in the RSS feed.
+copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License." # This message is only used by the RSS template.
+
+# googleAnalytics = ""
+# disqusShortname = ""
+
+buildDrafts  = false
+buildFuture  = false
+canonifyURLs = true
+
+enableRobotsTXT = true
+enableGitInfo   = true
+enableEmoji     = true
+enableMissingTranslationPlaceholders = false
+disableRSS     = false
+disableSitemap = false
+disable404     = false
+disableHugoGeneratorInject = false
 
 [permalinks]
-  post = "/:filename/"
+  posts = "/posts/:year/:month/:title/"
 
-[imaging]
-  quality = 99
+[author]
+  name = "K.Dolega"
+
+[blackfriday]
+  hrefTargetBlank = true
+
+# [taxonomies]
+#   tag      = "tags"
+#   category = ""
 
 [params]
-  description = "I'm a postdoc in philosophy at the Ruhr-Universität Bochum."
-  footer = "Made with [Hugo](https://gohugo.io/). Themed by [Cupper](https://github.com/zwbetz-gh/cupper-hugo-theme). Deployed to [Github](https://github.com/QualiaQ)."
-  # For more date formats see https://gohugo.io/functions/format/
-  dateFormat = "Jan 2, 2006"
-  codePenUser = "someUser"
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04 -0700"
+
+  # Metadata mostly used in document's head
+  description = "Homepage and blog of Krys Dolega"
+  keywords = "homepage, blog, philosophy, cognitive science, psychology, academic"
+  images = [""]
+
+  homeSubtitle = "Philosopher"
+
+  # Prefix of link to the git commit detail page. GitInfo must be enabled.
+  gitUrl = "https://github.com/rhazdon/homepage/commit/"
+
+  # Default theme "light" or "dark"
+  defaultTheme = "dark"
+
+  [params.logo]
+    logoText     = "Krys Dolega"
+    logoHomeLink = "/"
+
+  # Social icons
+  [[params.social]]
+    name = "twitter"
+    url  = "https://twitter.com/krysdolega"
+
+  [[params.social]]
+    name = "email"
+    url  = "mailto:krzysztof.dolega@rub.de"
+
+[languages]
+  [languages.en]
+    subtitle  = "Homepage & Blog"
+    weight    = 1
+    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 
 [menu]
-  [[menu.nav]]
-    name = "Home"
-    url = "/"
-    weight = 1
-  [[menu.nav]]
-    name = "Blog"
-    url = "/post/"
-    weight = 2
-  [[menu.nav]]
-    name = "Tags"
-    url = "/tags/"
-    weight = 3
-  [[menu.nav]]
-    name = "Vita"
-    url = "/about/"
-    weight = 4
-  [[menu.nav]]
-    name = "RSS"
-    url = "/index.xml"
-    weight = 5
+  [[menu.main]]
+    identifier = "about"
+    name       = "About"
+    url        = "/about"
+  [[menu.main]]
+    identifier = "vita"
+    name       = "Vita"
+    url        = "/cv"
+  [[menu.main]]
+    identifier = "blog"
+    name       = "Blog"
+    url        = "/posts"
