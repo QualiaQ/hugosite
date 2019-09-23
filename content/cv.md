@@ -4,7 +4,7 @@ title: "Krzysztof Dolega"
 toc: false
 ---
 Postdoctoral Fellow\\
-Ruhr-Universität Bochum, Institut für Philosophie II \\\
+Ruhr-Universität Bochum, Institut für Philosophie II \\
 Universitätsstr. 150 \\
 Bochum Germany 44801 \
 
@@ -132,6 +132,8 @@ The title says it all. I was invited to participate in the class as an expert an
 **2019**
 
 * Bayesians: Current Topics in Cognitive Science. Institut für Philosophie II, Ruhr-Universität Bochum, Germany, October 2019 (Lead organizer with Peter Brössel & Tobias Schlicht)
+![Bayesians](/images/Bayesians.jpg)
+
 
 * Second Bochum Early Career Workshop in Philosophy of Mind and of Cognitive Science, Ruhr-Universität Bochum, June 2019 (Co- organizer with Judith Martens, Andrea Pace Giannotta, Luke Roelofs, Elmarie Venter, Alfredo Vernazzani, & Julia Wolf)\\
 ![GradConf2](/images/GradConf2.png)
