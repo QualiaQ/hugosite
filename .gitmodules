@@ -4,3 +4,12 @@
 [submodule "hermit"]
 	path = hermit
 	url = https://github.com/Track3/hermit.git
+[submodule "themes/themes/ananke"]
+	path = themes/themes/ananke
+	url = https://github.com/budparr/gohugo-theme-ananke.git
+[submodule "themes/themes/aafu"]
+	path = themes/themes/aafu
+	url = https://github.com/darshanbaral/aafu.git
+[submodule "themes/themes/coder"]
+	path = themes/themes/coder
+	url = https://github.com/luizdepra/hugo-coder.git
