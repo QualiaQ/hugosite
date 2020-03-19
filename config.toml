@@ -71,4 +71,4 @@ displayrssicon = true
     name = "blog"
     weight = 300
     identifier = "blog"
-    url = "/posts/"
+    url = "/blog/"
